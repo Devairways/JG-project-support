@@ -1,4 +1,4 @@
-# jipso
+# JG project-support
 
 ## Project setup
 ```
