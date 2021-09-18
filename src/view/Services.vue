@@ -8,7 +8,7 @@
         trainingen.  Expertise blijft groeien door continue bij te leren en
         kennis en kunde te delen.
       </p>
-      ><card class="service_card">
+      <card class="service_card">
         <img src="img/coaching.png" alt="coaching" />
         <div>
           <h2>Coaching en begeleiding</h2>

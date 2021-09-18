@@ -59,12 +59,6 @@ export default {
       this.menuOpen = !this.menuOpen;
     },
   },
-
-  watch: {
-    loggin() {
-      console.log("is menu open: ", this.menuOpen);
-    },
-  },
 };
 </script>
 
